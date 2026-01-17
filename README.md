@@ -42,7 +42,11 @@ Users can open the map in any browser and interact with it using **zoom 🔍 and
 
 👤 Author
 
-<img src="https://avatars.githubusercontent.com/Nandan0402" width="120" style="border-radius:50%;" />Nandan
+
+<img src="https://avatars.githubusercontent.com/Nandan0402" width="120" style="border-radius:50%;" />
+
+Nandan
+
 📌 AI & Machine Learning Enthusiast
 
 🔗 🐙 GitHub: https://github.com/Nandan0402
